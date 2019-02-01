@@ -11,7 +11,7 @@
     <groupId>org.debugroom</groupId>
     <artifactId>mynavi-sample-ecs-backend-for-frontend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mynavi-sample-ecs-backend-for-frontend</name>
+    <name>mynavi-sample-aws-ecs-backend-for-frontend</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
