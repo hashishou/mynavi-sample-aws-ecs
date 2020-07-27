@@ -15,8 +15,8 @@ public class BackendRestController {
     @GetMapping("/users")
     public List<User> getUsers(){
         List<User> users = new ArrayList<>();
-        users.add(User.builder().userId("1").userName("Taro").build());
-        users.add(User.builder().userId("2").userName("Jiro").build());
+        users.add(User.builder().userId("1").userName("Hashimoto").build());
+        users.add(User.builder().userId("2").userName("Sho").build());
         return users;
     }
 
